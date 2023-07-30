@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Restaurant_Menu</string>
+    <string name="about">About</string>
+    <string name="order">Order</string>
+    <string name="about1">About</string>
+    <string name="place_an_order">Place an Order</string>
+</resources>
